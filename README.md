@@ -1,6 +1,6 @@
 # Magic Cursor with Animated Particles 🌟
 
-This project showcases an interactive **"Magic Cursor"** effect using JavaScript, CSS, and the [Three.js Toys](https://www.npmjs.com/package/threejs-toys) library. The cursor creates an engaging particle animation that reacts to user interaction, providing a visually stunning effect for modern web applications.
+This project showcases an interactive **"Magic Cursor"** effect using plain JavaScript, HTML and CSS. The cursor creates an engaging particle animation that reacts to user interaction, providing a visually stunning effect for modern web applications.
 
 ---
 
